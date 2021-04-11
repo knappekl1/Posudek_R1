@@ -1,0 +1,3 @@
+#Ignore charts and checkpoints
+.ipynb_checkpoints/
+*.png
